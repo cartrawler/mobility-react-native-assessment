@@ -6,7 +6,7 @@
 
 In order to verify your skill set for the role there is a small task that must be accomplished. The URL supplied below contains a JSON payload that represents a mobility availability response. Using React Native create a Mobile application that displays a visual representation of the following feed.
 
-URL feed: https://github.com/raw/cartrawler/mobility-react-native-assessment/master/assets/availability.json?token=AAAAATCHG433ACM5FQCEW7LAF7QB6 (To be replaced with public URL)
+URL feed: https://raw.githubusercontent.com/cartrawler/mobility-react-native-assessment/master/assets/availability.json
 
 Template repository: https://github.com/cartrawler/mobility-react-native-assessment
 
