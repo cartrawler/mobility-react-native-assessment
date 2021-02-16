@@ -1,0 +1,134 @@
+[
+  {
+    "availabilityId": "e87f660b-54b0-4b02-802e-d41cdb68a64a",
+    "eta": 2,
+    "supplier": {
+      "supplierName": "Bolt",
+      "supplierKey": "bolt"
+    },
+    "product": {
+      "maxPax": 4,
+      "bags": {"max": 2, "large": 1, "small": 1},
+      "maxSeats": 4
+    },
+    "price": {
+      "amount": 10,
+      "currency": "EUR"
+    },
+    "category": {
+      "productType": "STANDARD",
+      "vehicleType": "SEDAN",
+      "subCategory": "HIGHLY_RECOMMENDED"
+    }
+  },
+  {
+    "availabilityId": "12b701a4-aaae-4113-986f-b0cce2928f5d",
+    "eta": 2,
+    "supplier": {
+      "supplierName": "Bolt",
+      "supplierKey": "bolt"
+    },
+    "product": {
+      "maxPax": 4,
+      "bags": {"max": 2, "large": 1, "small": 1},
+      "maxSeats": 4
+    },
+    "price": {
+      "amount": 15,
+      "currency": "EUR"
+    },
+    "category": {
+      "productType": "STANDARD",
+      "vehicleType": "SUV",
+      "subCategory": "MOST_POPULAR"
+    }
+  },
+  {
+    "availabilityId": "630ad29e-4fc7-4df9-bcb5-3ae2ed90a38e",
+    "eta": 2,
+    "supplier": {
+      "supplierName": "FREENOW",
+      "supplierKey": "freenow"
+    },
+    "product": {
+      "maxPax": 4,
+      "bags": {"max": 2, "large": 1, "small": 1},
+      "maxSeats": 4
+    },
+    "price": {
+      "amount": 26,
+      "currency": "EUR"
+    },
+    "category": {
+      "productType": "OTHER",
+      "vehicleType": "ECO",
+      "subCategory": "HIGHLY_RECOMMENDED"
+    }
+  },
+  {
+    "availabilityId": "3c9be19c-3314-4764-862a-a704491761d0",
+    "eta": 4,
+    "supplier": {
+      "supplierName": "Bolt",
+      "supplierKey": "bolt"
+    },
+    "product": {
+      "maxPax": 6,
+      "bags": {"max": 2, "large": 1, "small": 1},
+      "maxSeats": 6
+    },
+    "price": {
+      "amount": 40,
+      "currency": "EUR"
+    },
+    "category": {
+      "productType": "STANDARD",
+      "vehicleType": "MINIBUS",
+      "subCategory": "MOST_POPULAR"
+    }
+  },
+  {
+    "availabilityId": "75a52383-983c-4d12-a110-287f0cca2414",
+    "eta": 4,
+    "supplier": {
+      "supplierName": "Bolt",
+      "supplierKey": "bolt"
+    },
+    "product": {
+      "maxPax": 4,
+      "bags": {"max": 2, "large": 1, "small": 1},
+      "maxSeats": 4
+    },
+    "price": {
+      "amount": 20,
+      "currency": "EUR"
+    },
+    "category": {
+      "productType": "OTHER",
+      "vehicleType": "ACCESSIBLE",
+      "subCategory": "HIGHLY_RECOMMENDED"
+    }
+  },
+  {
+    "availabilityId": "0d05cdb4-9002-4d09-b968-709af413dee4",
+    "eta": 1,
+    "supplier": {
+      "supplierName": "FREENOW",
+      "supplierKey": "freenow"
+    },
+    "product": {
+      "maxPax": 4,
+      "bags": {"max": 2, "large": 2, "small": 0},
+      "maxSeats": 4
+    },
+    "price": {
+      "amount": 10,
+      "currency": "EUR"
+    },
+    "category": {
+      "productType": "STANDARD",
+      "vehicleType": "SEDAN",
+      "subCategory": "MOST_POPULAR"
+    }
+  }
+]
